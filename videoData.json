@@ -39,6 +39,14 @@
           "url1": "https://shrdsk.me/video/weuD5U",
           "url2": "https://1024terabox.com/s/1j4LUJ0hp2Qocq47ajpxs1w"
         }
+      ],
+      "grammar": [
+        {
+          "title": "Lecture 1",
+          "id": "abcd12",
+          "url1": "https://shrdsk.me/video/abcd12",
+          "url2": "https://1024terabox.com/s/grammarLink"
+        }
       ]
     },
     "polity": {
