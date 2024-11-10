@@ -138,22 +138,372 @@
       ]
     },
     "polity": {
-      "grammar": [
+      "sambhidhan_sabha": [
         {
           "title": "Lecture 1",
-          "id": "abcd12",
-          "url1": "https://shrdsk.me/video/abcd12",
-          "url2": "https://1024terabox.com/s/grammarLink"
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture 2",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "making_of_constitution": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "preamble": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "source_of_constitution": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "union_and_its_territories": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "citizenship": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "mul_adhikar": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "rajye_ke_niti_nirdeshak_sidhant": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "rastriyapati": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "rastriyepati_ki_shaktiya": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "uprastriyapati": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "parilament": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "niyantrk_abm_mhalekha_pariksha": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "pradhanmantri_abm_mantriparishad": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "chunab_ayog": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "rajya_vibhag_mandal": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "rajyapal": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        },
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "rajbhasa": [
+        {
+          "title": "Lecture 1",
+          "id": "BAwAAP379xH2pw",
+          "url1": "https://shrdsk.me/video/P02AMG",
+          "url2": "https://1024terabox.com/s/1Rl8Ai6GpA2R2BSxIA6VKbQ"
+        },
+        {
+          "title": "Lecture 2",
+          "id": "olo0kW9LQrFJJkb",
+          "url1": "https://shrdsk.me/video/Nw617j",
+          "url2": "https://1024terabox.com/s/1UKbFDL9hfSYLRTxFgxAtFg"
         }
       ]
     },
     "history": {
-      "grammar": [
+      "prachin_itihas": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "sindu_ghati_sabhyta": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "bedik_sabhyta": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "utter_bedik_kal": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "mha_janpad_kal": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "bodh_dharm": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "jain_dharm": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "magad_samrajya": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "morya_bansh": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "sung_bansh": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "bharat_me_bedeshi_akarmn": [
+        {
+          "title": "Lecture ",
+          "id": "",
+          "url1": "",
+          "url2": ""
+        }
+      ],
+      "gupt_samrajya": [
         {
           "title": "Lecture 1",
-          "id": "abcd12",
-          "url1": "https://shrdsk.me/video/abcd12",
-          "url2": "https://1024terabox.com/s/grammarLink"
+          "id": "pzBQqdDYwLHW1o",
+          "url1": "https://shrdsk.me/video/qR9tLw",
+          "url2": "https://1024terabox.com/s/189j-x6T7aZjT5L1mS45zgQ"
+        },
+        {
+          "title": "Lecture 2",
+          "id": "Pvo12dJOVgTDrK",
+          "url1": "https://shrdsk.me/video/JsiMPb",
+          "url2": "https://1024terabox.com/s/12v0YI6fvTX3CGzzCIl5l_A"
+        },
+        {
+          "title": "Lecture 3",
+          "id": "6adgKJzkGos9GyV",
+          "url1": "https://shrdsk.me/video/1wr2Z4",
+          "url2": "https://1024terabox.com/s/17bz0VzzraWM0iABq9Rn-Dg"
+        },
+        {
+          "title": "Lecture 4",
+          "id": "x2Z2jDWv4jfkWkv",
+          "url1": "https://shrdsk.me/video/svRb3t",
+          "url2": "https://1024terabox.com/s/1jHzWMp9kH4oFcAycDi9jqw"
         }
       ]
     },
